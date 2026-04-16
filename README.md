@@ -1,7 +1,7 @@
-<img width="1487" height="1160" alt="image" src="https://github.com/user-attachments/assets/cbc47315-e17e-4559-803f-680266043d94" /># Gmail Manager (Email Teachers Manager)
 
 A desktop app to send and delete emails using Gmail.  
 Built with Python + Tkinter.
+<img width="1487" height="1160" alt="image" src="https://github.com/user-attachments/assets/cbc47315-e17e-4559-803f-680266043d94" /># Gmail Manager (Email Teachers Manager)
 
 ## Requirements
 - Gmail account with 2‑Factor Authentication enabled
