@@ -2,7 +2,6 @@
 
 A desktop app to send and delete emails using Gmail.  
 Built with Python + Tkinter.
-<img width="1487" height="1160" alt="image" src="https://github.com/user-attachments/assets/d357cb11-d4e8-4833-ba66-20e2c555419c" />
 
 ## Requirements
 - Gmail account with 2‑Factor Authentication enabled
